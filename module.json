@@ -3,13 +3,13 @@
     "alias": "transfer-request",
     "description": "",
     "keywords": [],
-    "active": 1,
+    "active": 0,
     "order": 0,
     "providers": [
         "Jano\\Modules\\TransferRequest\\Providers\\ModuleServiceProvider",
         "Jano\\Modules\\TransferRequest\\Providers\\RouteServiceProvider"
     ],
-    "aliases": {},
+    "aliases": [],
     "files": [],
     "requires": []
 }
